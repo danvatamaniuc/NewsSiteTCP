@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NewsSiteClientTPC/NewsSiteClientTPC.iml" filepath="$PROJECT_DIR$/NewsSiteClientTPC/NewsSiteClientTPC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewsSiteCommonTCP/NewsSiteCommonTCP.iml" filepath="$PROJECT_DIR$/NewsSiteCommonTCP/NewsSiteCommonTCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewsSiteServerTCP/NewsSiteServerTCP.iml" filepath="$PROJECT_DIR$/NewsSiteServerTCP/NewsSiteServerTCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewsSiteTCP.iml" filepath="$PROJECT_DIR$/NewsSiteTCP.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../NewsSiteCommonTCP/NewsSiteCommonTCP.iml" filepath="$PROJECT_DIR$/../NewsSiteCommonTCP/NewsSiteCommonTCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewsSiteServerTCP.iml" filepath="$PROJECT_DIR$/NewsSiteServerTCP.iml" />
+    </modules>
+  </component>
+</project>

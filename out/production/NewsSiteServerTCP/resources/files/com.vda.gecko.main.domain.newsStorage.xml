@@ -1,0 +1,12 @@
+<?xml version="1.0"?><objects>
+	<com.vda.gecko.main.domain.news>
+		<id>1</id>
+		<content>a</content>
+		<title>a</title>
+	</com.vda.gecko.main.domain.news>
+	<com.vda.gecko.main.domain.news>
+		<id>1</id>
+		<content>b</content>
+		<title>b</title>
+	</com.vda.gecko.main.domain.news>
+</objects>
